@@ -1,4 +1,5 @@
 {
+  "exclude": ["test", "lib"],
 	"compilerOptions": {
 		"outDir": "lib",
 		"declaration": true,
